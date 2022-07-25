@@ -1,0 +1,10 @@
+# GET http://localhost:5000/api/user/getallusers
+
+POST http://localhost:5000/api/user/register HTTP/1.1
+content-type: application/json
+
+{
+    "fullname":"aarati rajbanshi",
+    "email":"mukesh9811369428@gmail.com",
+    "phone_no":9811369428
+}
